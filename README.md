@@ -17,76 +17,76 @@ LSB(Ç¬Ç‹ÇËÅA2êiêîÇÃ1ÇÃà )Ç™â∫ÅAMSB(Ç¬Ç‹ÇËÅA2êiêîÇÃëÂÇ´Ç»åÖ)Ç™è„ÇÃÉuÉçÉbÉNÇà”ñ°Ç
 
 <table class='tet'>
       <tr>
-        <td class='block'>Å°</td>
-        <td class='space'>&nbsp;</td>
-        <td class='space'>&nbsp;</td>
-        <td class='block'>Å°</td>
-        <td class='space'>&nbsp;</td>
-        <td class='space'>&nbsp;</td>
-        <td class='space'>&nbsp;</td>
+        <td align='center'>Å°</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>Å°</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>&nbsp;</td>
       </tr>
       <tr>
-        <td class='block'>Å°</td>
-        <td class='space'>&nbsp;</td>
-        <td class='space'>&nbsp;</td>
-        <td class='block'>Å°</td>
-        <td class='block'>Å°</td>
-        <td class='block'>Å°</td>
-        <td class='space'>&nbsp;</td>
+        <td align='center'>Å°</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>Å°</td>
+        <td align='center'>Å°</td>
+        <td align='center'>Å°</td>
+        <td align='center'>&nbsp;</td>
       </tr>
       <tr>
-        <td class='block'>Å°</td>
-        <td class='block'>Å°</td>
-        <td class='block'>Å°</td>
-        <td class='block'>Å°</td>
-        <td class='block'>Å°</td>
-        <td class='block'>Å°</td>
-        <td class='block'>Å°</td>
+        <td align='center'>Å°</td>
+        <td align='center'>Å°</td>
+        <td align='center'>Å°</td>
+        <td align='center'>Å°</td>
+        <td align='center'>Å°</td>
+        <td align='center'>Å°</td>
+        <td align='center'>Å°</td>
       </tr>
       <tr>
-        <td class='block'>Å°</td>
-        <td class='space'>&nbsp;</td>
-        <td class='space'>&nbsp;</td>
-        <td class='block'>Å°</td>
-        <td class='block'>Å°</td>
-        <td class='block'>Å°</td>
-        <td class='block'>Å°</td>
+        <td align='center'>Å°</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>Å°</td>
+        <td align='center'>Å°</td>
+        <td align='center'>Å°</td>
+        <td align='center'>Å°</td>
       </tr>
       <tr>
-        <td class='block'>Å°</td>
-        <td class='block'>Å°</td>
-        <td class='space'>&nbsp;</td>
-        <td class='space'>&nbsp;</td>
-        <td class='space'>&nbsp;</td>
-        <td class='block'>Å°</td>
-        <td class='block'>Å°</td>
+        <td align='center'>Å°</td>
+        <td align='center'>Å°</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>Å°</td>
+        <td align='center'>Å°</td>
       </tr>
       <tr>
-        <td class='block'>Å°</td>
-        <td class='block'>Å°</td>
-        <td class='space'>&nbsp;</td>
-        <td class='space'>&nbsp;</td>
-        <td class='block'>Å°</td>
-        <td class='block'>Å°</td>
-        <td class='space'>&nbsp;</td>
+        <td align='center'>Å°</td>
+        <td align='center'>Å°</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>Å°</td>
+        <td align='center'>Å°</td>
+        <td align='center'>&nbsp;</td>
       </tr>
       <tr>
-        <td class='block'>Å°</td>
-        <td class='block'>Å°</td>
-        <td class='block'>Å°</td>
-        <td class='block'>Å°</td>
-        <td class='block'>Å°</td>
-        <td class='block'>Å°</td>
-        <td class='block'>Å°</td>
+        <td align='center'>Å°</td>
+        <td align='center'>Å°</td>
+        <td align='center'>Å°</td>
+        <td align='center'>Å°</td>
+        <td align='center'>Å°</td>
+        <td align='center'>Å°</td>
+        <td align='center'>Å°</td>
       </tr>
       <tr>
-        <td class='block'>Å°</td>
-        <td class='block'>Å°</td>
-        <td class='block'>Å°</td>
-        <td class='block'>Å°</td>
-        <td class='block'>Å°</td>
-        <td class='block'>Å°</td>
-        <td class='block'>Å°</td>
+        <td align='center'>Å°</td>
+        <td align='center'>Å°</td>
+        <td align='center'>Å°</td>
+        <td align='center'>Å°</td>
+        <td align='center'>Å°</td>
+        <td align='center'>Å°</td>
+        <td align='center'>Å°</td>
       </tr>
       <tr>
         <td class='value'>
@@ -117,76 +117,76 @@ LSB(Ç¬Ç‹ÇËÅA2êiêîÇÃ1ÇÃà )Ç™â∫ÅAMSB(Ç¬Ç‹ÇËÅA2êiêîÇÃëÂÇ´Ç»åÖ)Ç™è„ÇÃÉuÉçÉbÉNÇà”ñ°Ç
 
 <table class='tet'>
       <tr>
-        <td class='space'>&nbsp;</td>
-        <td class='space'>&nbsp;</td>
-        <td class='space'>&nbsp;</td>
-        <td class='space'>&nbsp;</td>
-        <td class='space'>&nbsp;</td>
-        <td class='space'>&nbsp;</td>
-        <td class='space'>&nbsp;</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>&nbsp;</td>
       </tr>
       <tr>
-        <td class='space'>&nbsp;</td>
-        <td class='space'>&nbsp;</td>
-        <td class='space'>&nbsp;</td>
-        <td class='space'>&nbsp;</td>
-        <td class='space'>&nbsp;</td>
-        <td class='space'>&nbsp;</td>
-        <td class='space'>&nbsp;</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>&nbsp;</td>
       </tr>
       <tr>
-        <td class='space'>&nbsp;</td>
-        <td class='space'>&nbsp;</td>
-        <td class='space'>&nbsp;</td>
-        <td class='space'>&nbsp;</td>
-        <td class='space'>&nbsp;</td>
-        <td class='space'>&nbsp;</td>
-        <td class='space'>&nbsp;</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>&nbsp;</td>
       </tr>
       <tr>
-        <td class='block'>Å°</td>
-        <td class='space'>&nbsp;</td>
-        <td class='space'>&nbsp;</td>
-        <td class='block'>Å°</td>
-        <td class='space'>&nbsp;</td>
-        <td class='space'>&nbsp;</td>
-        <td class='space'>&nbsp;</td>
+        <td align='center'>Å°</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>Å°</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>&nbsp;</td>
       </tr>
       <tr>
-        <td class='block'>Å°</td>
-        <td class='space'>&nbsp;</td>
-        <td class='space'>&nbsp;</td>
-        <td class='block'>Å°</td>
-        <td class='block'>Å°</td>
-        <td class='block'>Å°</td>
-        <td class='space'>&nbsp;</td>
+        <td align='center'>Å°</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>Å°</td>
+        <td align='center'>Å°</td>
+        <td align='center'>Å°</td>
+        <td align='center'>&nbsp;</td>
       </tr>
       <tr>
-        <td class='block'>Å°</td>
-        <td class='space'>&nbsp;</td>
-        <td class='space'>&nbsp;</td>
-        <td class='block'>Å°</td>
-        <td class='block'>Å°</td>
-        <td class='block'>Å°</td>
-        <td class='block'>Å°</td>
+        <td align='center'>Å°</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>Å°</td>
+        <td align='center'>Å°</td>
+        <td align='center'>Å°</td>
+        <td align='center'>Å°</td>
       </tr>
       <tr>
-        <td class='block'>Å°</td>
-        <td class='block'>Å°</td>
-        <td class='space'>&nbsp;</td>
-        <td class='space'>&nbsp;</td>
-        <td class='space'>&nbsp;</td>
-        <td class='block'>Å°</td>
-        <td class='block'>Å°</td>
+        <td align='center'>Å°</td>
+        <td align='center'>Å°</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>Å°</td>
+        <td align='center'>Å°</td>
       </tr>
       <tr>
-        <td class='block'>Å°</td>
-        <td class='block'>Å°</td>
-        <td class='space'>&nbsp;</td>
-        <td class='space'>&nbsp;</td>
-        <td class='block'>Å°</td>
-        <td class='block'>Å°</td>
-        <td class='space'>&nbsp;</td>
+        <td align='center'>Å°</td>
+        <td align='center'>Å°</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>&nbsp;</td>
+        <td align='center'>Å°</td>
+        <td align='center'>Å°</td>
+        <td align='center'>&nbsp;</td>
       </tr>
       <tr>
         <td class='value'>
