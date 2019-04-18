@@ -17,76 +17,76 @@ LSB(Ç¬Ç‹ÇËÅA2êiêîÇÃ1ÇÃà )Ç™â∫ÅAMSB(Ç¬Ç‹ÇËÅA2êiêîÇÃëÂÇ´Ç»åÖ)Ç™è„ÇÃÉuÉçÉbÉNÇà”ñ°Ç
 
 <table class='tet'>
       <tr>
-        <td class='block'>&nbsp;</td>
+        <td class='block'>Å°</td>
         <td class='space'>&nbsp;</td>
         <td class='space'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
+        <td class='block'>Å°</td>
         <td class='space'>&nbsp;</td>
         <td class='space'>&nbsp;</td>
         <td class='space'>&nbsp;</td>
       </tr>
       <tr>
-        <td class='block'>&nbsp;</td>
+        <td class='block'>Å°</td>
         <td class='space'>&nbsp;</td>
         <td class='space'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
-        <td class='space'>&nbsp;</td>
-      </tr>
-      <tr>
-        <td class='block'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
-      </tr>
-      <tr>
-        <td class='block'>&nbsp;</td>
-        <td class='space'>&nbsp;</td>
-        <td class='space'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
-      </tr>
-      <tr>
-        <td class='block'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
-        <td class='space'>&nbsp;</td>
-        <td class='space'>&nbsp;</td>
-        <td class='space'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
-      </tr>
-      <tr>
-        <td class='block'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
-        <td class='space'>&nbsp;</td>
-        <td class='space'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
+        <td class='block'>Å°</td>
+        <td class='block'>Å°</td>
+        <td class='block'>Å°</td>
         <td class='space'>&nbsp;</td>
       </tr>
       <tr>
-        <td class='block'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
+        <td class='block'>Å°</td>
+        <td class='block'>Å°</td>
+        <td class='block'>Å°</td>
+        <td class='block'>Å°</td>
+        <td class='block'>Å°</td>
+        <td class='block'>Å°</td>
+        <td class='block'>Å°</td>
       </tr>
       <tr>
-        <td class='block'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
+        <td class='block'>Å°</td>
+        <td class='space'>&nbsp;</td>
+        <td class='space'>&nbsp;</td>
+        <td class='block'>Å°</td>
+        <td class='block'>Å°</td>
+        <td class='block'>Å°</td>
+        <td class='block'>Å°</td>
+      </tr>
+      <tr>
+        <td class='block'>Å°</td>
+        <td class='block'>Å°</td>
+        <td class='space'>&nbsp;</td>
+        <td class='space'>&nbsp;</td>
+        <td class='space'>&nbsp;</td>
+        <td class='block'>Å°</td>
+        <td class='block'>Å°</td>
+      </tr>
+      <tr>
+        <td class='block'>Å°</td>
+        <td class='block'>Å°</td>
+        <td class='space'>&nbsp;</td>
+        <td class='space'>&nbsp;</td>
+        <td class='block'>Å°</td>
+        <td class='block'>Å°</td>
+        <td class='space'>&nbsp;</td>
+      </tr>
+      <tr>
+        <td class='block'>Å°</td>
+        <td class='block'>Å°</td>
+        <td class='block'>Å°</td>
+        <td class='block'>Å°</td>
+        <td class='block'>Å°</td>
+        <td class='block'>Å°</td>
+        <td class='block'>Å°</td>
+      </tr>
+      <tr>
+        <td class='block'>Å°</td>
+        <td class='block'>Å°</td>
+        <td class='block'>Å°</td>
+        <td class='block'>Å°</td>
+        <td class='block'>Å°</td>
+        <td class='block'>Å°</td>
+        <td class='block'>Å°</td>
       </tr>
       <tr>
         <td class='value'>
@@ -144,48 +144,48 @@ LSB(Ç¬Ç‹ÇËÅA2êiêîÇÃ1ÇÃà )Ç™â∫ÅAMSB(Ç¬Ç‹ÇËÅA2êiêîÇÃëÂÇ´Ç»åÖ)Ç™è„ÇÃÉuÉçÉbÉNÇà”ñ°Ç
         <td class='space'>&nbsp;</td>
       </tr>
       <tr>
-        <td class='block'>&nbsp;</td>
+        <td class='block'>Å°</td>
         <td class='space'>&nbsp;</td>
         <td class='space'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
+        <td class='block'>Å°</td>
         <td class='space'>&nbsp;</td>
         <td class='space'>&nbsp;</td>
         <td class='space'>&nbsp;</td>
       </tr>
       <tr>
-        <td class='block'>&nbsp;</td>
+        <td class='block'>Å°</td>
         <td class='space'>&nbsp;</td>
         <td class='space'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
+        <td class='block'>Å°</td>
+        <td class='block'>Å°</td>
+        <td class='block'>Å°</td>
         <td class='space'>&nbsp;</td>
       </tr>
       <tr>
-        <td class='block'>&nbsp;</td>
+        <td class='block'>Å°</td>
         <td class='space'>&nbsp;</td>
         <td class='space'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
+        <td class='block'>Å°</td>
+        <td class='block'>Å°</td>
+        <td class='block'>Å°</td>
+        <td class='block'>Å°</td>
       </tr>
       <tr>
-        <td class='block'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
+        <td class='block'>Å°</td>
+        <td class='block'>Å°</td>
         <td class='space'>&nbsp;</td>
         <td class='space'>&nbsp;</td>
         <td class='space'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
+        <td class='block'>Å°</td>
+        <td class='block'>Å°</td>
       </tr>
       <tr>
-        <td class='block'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
+        <td class='block'>Å°</td>
+        <td class='block'>Å°</td>
         <td class='space'>&nbsp;</td>
         <td class='space'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
-        <td class='block'>&nbsp;</td>
+        <td class='block'>Å°</td>
+        <td class='block'>Å°</td>
         <td class='space'>&nbsp;</td>
       </tr>
       <tr>
